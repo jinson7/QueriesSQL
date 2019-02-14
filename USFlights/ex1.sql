@@ -1,0 +1,1 @@
+SELECT count(*) as "Numbers of flights" FROM Flights;
